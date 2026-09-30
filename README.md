@@ -4,7 +4,7 @@ Welcome to my academic portfolio for Essential Tooling for Programmers!
 
 ## About Me
 - Name: Ebenezer Agyri
-- Major: Computer Programing
+- Major: Computer Programming
 - Year: First year
 - Favorite Programming Language: python
 
