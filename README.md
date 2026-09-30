@@ -1,2 +1,18 @@
-# my-course-portfolio
-Portfolio of my work and projects for Essential Tooling for Programmers
+# My Course Portfolio
+
+Welcome to my academic portfolio for [Course Name]!
+
+## About Me
+- Name: Ebenezer Agyri
+- Major: Computer Programing
+- Year: First year
+- Favorite Programming Language: python
+
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+*This section will be updated as I complete assignments*
